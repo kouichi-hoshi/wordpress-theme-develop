@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/*
+ Theme Name:   wordpress-theme-develop
+ Theme URI:    
+ Description:  underscores Child Theme
+ Author:       Kouichi Hoshi
+ Author URI:   https://stella-design.biz/
+ Template:     underscores20200508
+ Version:      0.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         responsive-layout, accessibility-ready
+ Text Domain:  Text Domain-child
+*/
+
+
+//Foundation
+@import '_foundation/**';
+
+//Layout
+@import '_layout/**';
+
+//Object
+@import '_object/**';
