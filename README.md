@@ -21,13 +21,13 @@ FLOCSS
 
 ## ディリクトリ構成
 themes/wordpress-theme-develop
-├─dist
-├─src
-  ├─assets
-  ├─images
-  ├─php
-  ├─public
-  ├─theme
+├─dist  
+├─src  
+  ├─assets  
+  ├─images  
+  ├─php  
+  ├─public  
+  ├─theme  
 
 ## 注意事項
 利用環境によりカスタマイズが必要になる場合がある。
