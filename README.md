@@ -20,7 +20,7 @@ underscores
 FLOCSS
 
 ## ディリクトリ構成
-themes/wordpress-theme-develop
+themes/wordpress-theme-develop  
 ├─dist  
 ├─src  
   ├─assets  
